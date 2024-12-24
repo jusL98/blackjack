@@ -91,19 +91,6 @@ print(f'- Dealer Total Value: {dealer.total_value}')
 print('****************************************')
 
 
-
-
 # Scenarios To Resolve
-# - What if player gets 21 in first two cards ... note - not currently possible because ace is only worth 1
-# - What if dealer gets 21 in first two cards ... note - not currently possible because ace is only worth 1
-
-# Future Things To Add
-# - AI for dealer betting after stand
-# - Fix duplication of cards
-# - Multiple players
-# - Betting amounts
-# - Ace worth 1 or 11
-# - "Splitting Pairs"
-# - "Doubling Down"
-# - ""
-
+# - What if player gets 21 in first two cards ... note - not an issue as not currently possible because ace is only worth 1
+# - What if dealer gets 21 in first two cards ... note - not an issue as not currently possible because ace is only worth 1
