@@ -1,4 +1,4 @@
-# Blackjack Game
+# Blackjack
 This is a modified blackjack game which is my first major project to practice using object oriented programming.
 
 ## About This Project
