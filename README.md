@@ -4,7 +4,7 @@
 This game is a terminal blackjack game that I created to learn OOP in python. The game features randomized card dealing, intuitive prompts for the user and information about the total value of both the player and dealer's hand.
 
 <p align="left">
-   <img width="600" alt="image" src=""/>
+   <img width="600" alt="image" src="https://github.com/user-attachments/assets/028513dd-b315-4e38-814c-2262593ce353"/>
 </p>
 
 ## Description
@@ -92,3 +92,5 @@ Thank you!
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
+
+<p align="right">(<a href="#readme-top">BACK TO TOP</a>)</p>
