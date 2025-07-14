@@ -31,8 +31,8 @@ To install Blackjack, follow these steps:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/jusL98/blackjack-game.git
-   cd blackjack-game
+   git clone https://github.com/jusL98/blackjack.git
+   cd blackjack
    ```
 
 2. Ensure that you have python running on your system.
