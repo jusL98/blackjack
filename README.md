@@ -17,7 +17,7 @@ In this modified version for simplicity:
 - The dealer does not hit after you stand
 
 ## Built With
-- [Python 3.13](https://www.python.org/): Description
+- [Python 3.13](https://www.python.org/): Programming language for complete functionality
 
 ## Quick Start
 ### Prerequisites
