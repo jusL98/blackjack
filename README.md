@@ -41,7 +41,7 @@ To install Blackjack, follow these steps:
 N/A
 
 ### Run
-3. Run the Blackjack Game.
+3. Run Blackjack.
    ```bash
    python main.py
    ```
