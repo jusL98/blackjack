@@ -26,7 +26,7 @@ In this modified version for simplicity:
 - Terminal or CLI Access
 
 ### Installation
-To install the Blackjack Game, follow these steps:
+To install Blackjack, follow these steps:
 
 1. Clone the repository:
 
